@@ -1,0 +1,17 @@
+CUBESAT
+ 1. Power-Management Sub-System:
+      This sub-system is designed to manage power related activities in the cubesat, basically it monitors and 
+      regulates battery usage by other sub-systems.
+
+ 2. Input-Management Sub-System
+      This sub-system is designed to manage sensor related activities in the cubesat, basically it monitors all 
+      sensors(when to activate a sensor and when to put it to sleep)
+
+ 3. Output-Management Sub-System
+      This sub-system is designed to manage communication and storage related activities is the cubesat, basically
+      it manages SD card writes and data transmission.
+
+
+To be Addressed:
+ 1. There is no aviation control
+ 2. The cubesat cannot be controlled remotely
